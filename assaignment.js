@@ -2,8 +2,8 @@
 /* hints: 1 Mile = 5280 feet */
 
 /*---------------------------------------------- */
-function feetToMile(whatIsYourMile){
-    var findMile = whatIsYourMile / 5280;
+function feetToMile(WhatisYourFeet){
+    var findMile = WhatisYourFeet / 5280;
     return findMile;
 }
 var resultOfMile = feetToMile(300000);
