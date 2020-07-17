@@ -29,7 +29,7 @@ console.log(totalWoodNeeded);
 /* -------------------------------------------- */
 
 
-/* 03. Problem: Bricks Calcualtor- Count toal bricks you need to build a house */
+/* 03. Problem: Bricks Calcualtor- Count total bricks you need to build a house */
 /* hints: bricks we need for per feet = 1000*, first ten floor hight = 15, second ten floor hight = 12, rest hight = 10 */
 
 /* ------------------------------------------ */
